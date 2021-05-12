@@ -1,1 +1,50 @@
+.maps{
+  background-color: rgb(0, 255, 21);
+}
 
+.twitter{
+  background-color: rgb(41, 218, 55);
+}
+
+.youtube{
+  background-color: rgb(51, 189, 62);
+}
+
+.imgur{
+  background-color: rgb(83, 177, 91);
+}
+
+.pinterest{
+  background-color: rgb(82, 141, 86);
+}
+
+.imaps{
+  border-width: 15px;
+  border-color: rgb(255, 0, 0);
+}
+
+.iyoutube{
+  border-width: 15px;
+  border-color: rgb(175, 37, 37);
+}
+
+.ipinterest{
+  border-width: 15px;
+  border-color: rgb(110, 35, 35);
+}
+
+.body{
+  background-color: rgb(0, 165, 165);
+}
+
+h2{
+  font-size:20;
+}
+
+h3{
+  font-size:18;
+}
+
+p{
+  font-size:15;
+}
